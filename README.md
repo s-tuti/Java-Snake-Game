@@ -24,5 +24,6 @@ The Java Snake Game is a classic implementation of the popular Snake game, devel
 ## Source Code
 
 - `https://zetcode.com/javagames/snake/`
+--------
 
 
